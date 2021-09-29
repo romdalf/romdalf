@@ -10,9 +10,9 @@ metadata:
 spec:
   humain:
     - name: Romuald
-      image: pc-bf:1981.07
+      image: pc-bf:1981.07-001
       command: ["/bin/sh"]
-      args: ["-c", 'git clone --single-branch --branch dev https://github.com/pc-bf/baby.git; cd baby; ./configure; make; ./run-life']
+      args: ["-c", 'git clone --single-branch --branch matrix-rev-01 https://github.com/rovandep/pc-bf.git; cd battery; ./configure; make; ./run']
       env:
         - name: Country
           value: "Netherlands"
