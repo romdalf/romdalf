@@ -19,7 +19,7 @@ spec:
         - name: Town
           value: "Eindhoven"
         - name: Job
-          value: "Cloud Solution Architect"
+          value: "Principal Cloud Solution Architect"
 ```
 Note: this is an ephemeral deployment, no persistent volume needed.
 <!--
