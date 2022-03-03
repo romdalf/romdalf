@@ -1,5 +1,5 @@
 ## Who's Rom
-* [LinkedIn](https://www.linkedin.com/in/rvandepoel/)
+* Resume available on [LinkedIn](https://www.linkedin.com/in/rvandepoel/)
 * Open Transformation Leader at [Red Hat](https://www.redhat.com/en)
 * Open Source Strategy Advisor at [Ondat](https://ondat.io)
 * Founder & Maintainer of the [Trousseau.io](https://trousseau.io) project - [GitRepo](https://github.com/ondat/trousseau)
