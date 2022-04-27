@@ -4,7 +4,9 @@
 * Open Source Strategy Advisor at [Ondat](https://ondat.io)
 * Founder & Maintainer of the [Trousseau.io](https://trousseau.io) project - [GitRepo](https://github.com/ondat/trousseau)
 
-## Portfolio of artciles and webinars
+## Portfolio of contributions, artciles and webinars
+Contributions:
+* [Digital Wallonia, a proposal for digital plan (in French)](https://content.digitalwallonia.be/post/20180322085717/Plan-du-Num%C3%A9rique_Rapport-du-Conseil-du-Num%C3%A9rique_VF.pdf) 
 Articles:
 * [The Intrepid Squirrel is Out!](https://www.ondat.io/blog/the-intrepid-squirrel-is-out) - Ondat.io Dec 2021
 * [3 key takeaways from KubeCon NA 2021](https://www.ondat.io/blog/top-3-key-takeaway-from-kubecon-na-2021) - Ondat.io Nov 2021
