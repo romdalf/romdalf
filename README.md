@@ -6,7 +6,7 @@
 
 ## Portfolio of contributions, artciles and webinars
 Contributions:
-* [Digital Wallonia, a proposal for a digital plan (in French)](https://content.digitalwallonia.be/post/20180322085717/Plan-du-Num%C3%A9rique_Rapport-du-Conseil-du-Num%C3%A9rique_VF.pdf)   
+* [Digital Wallonia, a proposal for a digital plan (in French)](https://content.digitalwallonia.be/post/20180322085717/Plan-du-Num%C3%A9rique_Rapport-du-Conseil-du-Num%C3%A9rique_VF.pdf) - Belgian Walloon Regional Government Sept 2015
 
 Articles:
 * [The Intrepid Squirrel is Out!](https://www.ondat.io/blog/the-intrepid-squirrel-is-out) - Ondat.io Dec 2021
