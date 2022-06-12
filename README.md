@@ -1,10 +1,11 @@
 ## Who's Rom
-* Resume available on [LinkedIn](https://www.linkedin.com/in/rvandepoel/)
-* Open Transformation Leader at [Red Hat](https://www.redhat.com/en)
-* Open Source Strategy Advisor at [Ondat](https://ondat.io)
+* [LinkedIn Profile](https://www.linkedin.com/in/rvandepoel/)
+* Open Transformation Leader at [Red Hat](https://www.redhat.com/en) - Present
+* Open Source Strategy Advisor at [Ondat](https://ondat.io) - Present
 * Founder & Maintainer of the [Trousseau.io](https://trousseau.io) project - [GitRepo](https://github.com/ondat/trousseau)
+* Maintainer of the [Discoblocks.io](https://discoblocks.io project - [GitRepo](https://github.com/ondat/discoblocks)
 
-## Portfolio of contributions, artciles and webinars
+## Portfolio of contributions, articles and webinars
 Contributions:
 * [Digital Wallonia, a proposal for a digital plan (in French)](https://content.digitalwallonia.be/post/20180322085717/Plan-du-Num%C3%A9rique_Rapport-du-Conseil-du-Num%C3%A9rique_VF.pdf) - Belgian Walloon Regional Government Sept 2015
 
