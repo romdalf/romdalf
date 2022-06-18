@@ -18,6 +18,13 @@ Articles:
 * [How to solve kubernetes persistent storage challenges](https://thenewstack.io/how-to-solve-kubernetes-persistent-storage-challenges/) - The New Stack Jun 2021
 * [Deploying cloud native persistent storage in the age of containers](https://thenewstack.io/deploying-cloud-native-persistent-storage-in-the-age-of-containers/) - The New Stack May 2021
 
+Live Presentations:
+* [Open 22 - Open Source to Enterprise Open Source](https://kangaroot.net/events/open22) - Kangaroot Mar 2022 - Antwerpen
+* [Red Hat Academy - Innovation with Open Source](https://www.redhat.com/en/events/red-hat-academy-session-belgium) - Henallux Mar 2022 - Namur
+* [Ansible Automates BeLux 2022 - Master of Ceremony](https://events.redhat.com/profile/form/index.cfm?PKformID=0x540285abcd#agenda) - Red Hat May 2022 - Brussels
+* [Open for Gov - Refactoring your application at your own pace](https://kangaroot.net/events/open-gov) - Kangaroot Jun 2022 - Brussels
+* [HashiConf - A Kubernetes Zero-Trust Security Model using a KMS provider plugin](https://hashiconf-europe-2022.sessionize.com/session/328785) - HashiCorp Europe Jun 2022 - Amsterdam
+* [HashiCorp User Group - Solving the Kubernetes Secret conundrum](https://www.meetup.com/London-HashiCorp-User-Group/events/285864430/) - Meetup @ Natilik  Jun 2022 - London
 
 Webinars:
 * [Trousseau - the Kubernetes Key Management Service provider](https://fosdem.org/2022/schedule/event/security_trousseau/) - Fosdem Feb 2022 (waiting on video availability)
