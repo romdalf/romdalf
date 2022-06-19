@@ -3,7 +3,7 @@
 * Open Transformation Leader at [Red Hat](https://www.redhat.com/en) - Present
 * Open Source Strategy Advisor at [Ondat](https://ondat.io) - Present
 * Founder & Maintainer of the [Trousseau.io](https://trousseau.io) project - [GitRepo](https://github.com/ondat/trousseau)
-* Maintainer of the [Discoblocks.io](https://discoblocks.io project - [GitRepo](https://github.com/ondat/discoblocks)
+* Maintainer of the [Discoblocks.io](https://discoblocks.io) project - [GitRepo](https://github.com/ondat/discoblocks)
 
 ## Portfolio of contributions, articles and webinars
 Contributions:
