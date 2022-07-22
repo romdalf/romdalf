@@ -30,7 +30,7 @@
 |Innovation with Open Source|[Red Hat Academy at Henallux](https://www.redhat.com/en/events/red-hat-academy-session-belgium)|03/2022|Namur|
 |Master of Ceremony|[Red Hat Ansible Automates](https://events.redhat.com/profile/form/index.cfm?PKformID=0x540285abcd#agenda)|05/2022|Brussels|
 |Refactoring your application at your own pace|[Open for Gov](https://kangaroot.net/events/open-gov)|06/2022|Brussels|
-|A Kubernetes Zero-Trust Security Model using a KMS provider plugin|[HashiConf Europe](https://hashiconf-europe-2022.sessionize.com/session/328785)|06/2022|Amsterdam|
+|A Kubernetes Zero-Trust Security Model using a KMS provider plugin|[HashiConf Europe Recording](https://www.youtube.com/watch?v=L3CZRffwa9I)|06/2022|Amsterdam|
 |Solving the Kubernetes Secret conundrum|[Hashicorp User Group at Natilik](https://www.meetup.com/London-HashiCorp-User-Group/events/285864430/)|06/2022|London|
 
 ### Webinars
