@@ -1,10 +1,25 @@
 
-## Who's Rom
-* [LinkedIn Profile](https://www.linkedin.com/in/rvandepoel/)
-* Open Transformation Leader at [Red Hat](https://www.redhat.com/en) - Present
-* Open Source Strategy Advisor at [Ondat](https://ondat.io) - Present
-* Founder & Maintainer of the [Trousseau.io](https://trousseau.io) project - [GitRepo](https://github.com/ondat/trousseau)
-* Maintainer of the [Discoblocks.io](https://discoblocks.io) project - [GitRepo](https://github.com/ondat/discoblocks)
+## Who's Rom 👋 
+
+Romuald Vandepoel is a technologist, facilitator, advocate, and open source contributor responsible for modernizing and transforming customer and partner organizations at Red Hat, Inc. He embraces his role as a trusted advisor within architecture boards and CTO offices providing guidance on culture, process and technology adoption strategies. As a transformational leader, he supports transitions from IT legacy siloed monoliths to ecosystems of Business-Unit-as-a-Service to accelerate the organization's innovation and growth.  
+Romuald participated as moderator and speaker for both in-person and virtual events for Red Hat, FOSDEM, DevOps.com, DevNetwork, Tech Field Day, and CNCF. He also maintains and contributes to two open source projects, Trousseau and Discoblocks, and is a member of the Ondat Advisory Board where he provides guidance on open source strategies. Romuald is based both in Eindhoven and San Jose and has held diverse roles in tech companies including Tyco, SonicWALL, NetApp, and Red Hat.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rvandepoel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> 
+  <a href="https://twitter.com/romdalf">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
+  </a>
+</p>
+  
+## Contribution Stats 🔭
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=romdalf&theme=vision-friendly-dark" /> 
+  </a>
+</p>
 
 ## Portfolio of contributions, articles and webinars
 ### Contributions
