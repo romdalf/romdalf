@@ -1,8 +1,9 @@
 
 ## Who's Rom 👋 
 
-Romuald Vandepoel is a technologist, facilitator, advocate, and open source contributor responsible for modernizing and transforming customer and partner organizations at Red Hat, Inc. He embraces his role as a trusted advisor within architecture boards and CTO offices providing guidance on culture, process and technology adoption strategies. As a transformational leader, he supports transitions from IT legacy siloed monoliths to ecosystems of Business-Unit-as-a-Service to accelerate the organization's innovation and growth.  
-Romuald participated as moderator and speaker for both in-person and virtual events for Red Hat, FOSDEM, DevOps.com, DevNetwork, Tech Field Day, and CNCF. He also maintains and contributes to two open source projects, Trousseau and Discoblocks, and is a member of the Ondat Advisory Board where he provides guidance on open source strategies. Romuald is based both in Eindhoven and San Jose and has held diverse roles in tech companies including Tyco, SonicWALL, NetApp, and Red Hat.
+Rom Adams (né Romuald Vandepoel) is a technologist, facilitator, advocate, and open-source contributor responsible for modernizing and transforming customer and partner organizations at Red Hat, Inc. He embraces his role as a trusted advisor within architecture boards and CTO offices providing guidance on culture, process, and technology adoption strategies. As a transformational leader, he supports transitions from IT legacy siloed monoliths to ecosystems of Business-Unit-as-a-Service to accelerate the organization's innovation and growth.   
+
+Rom participated as moderator and speaker for both in-person and virtual events for Red Hat, FOSDEM, DevOps.com, DevNetwork, Tech Field Day, HashiCorp, and the CNCF. He also funded, maintains and contributes to open-source projects and advises companies on their open-source and sustainability strategies. Rom is based both in Eindhoven and San Jose and has held diverse roles in tech companies including Tyco, SonicWALL, NetApp, and Red Hat.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rvandepoel/">
