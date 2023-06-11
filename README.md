@@ -48,6 +48,10 @@ Rom participated as moderator and speaker for both in-person and virtual events 
 |Refactoring your application at your own pace|[Open for Gov](https://kangaroot.net/events/open-gov)|06/2022|Brussels|
 |A Kubernetes Zero-Trust Security Model using a KMS provider plugin|[HashiConf Europe Recording](https://www.youtube.com/watch?v=L3CZRffwa9I)|06/2022|Amsterdam|
 |Solving the Kubernetes Secret conundrum|[Hashicorp User Group at Natilik](https://www.meetup.com/London-HashiCorp-User-Group/events/285864430/)|06/2022|London|
+|State of Kubernetes Secret Management | Red Hat EMEA Tech Exchange | 01/2023 | Dublin | 
+|How regulating software for the European market could impact FOSS | [FSODEM 2023](https://fosdem.org/2023/schedule/event/cyber_resilience/) |02/2023| Brussels|
+|The State of Open Source from a Community PoV solving Diabetes | [Open 23](https://kangaroot.net/events/open23)| 03/2023| Mechelen |
+
 
 ### Webinars
 |Title|Venue|Date|
