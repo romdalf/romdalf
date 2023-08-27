@@ -6,7 +6,7 @@ Rom Adams (né Romuald Vandepoel) is a technologist, facilitator, advocate, and 
 Rom participated as moderator and speaker for both in-person and virtual events for Red Hat, FOSDEM, DevOps.com, DevNetwork, Tech Field Day, HashiCorp, and the CNCF. He also funded, maintains and contributes to open-source projects and advises companies on their open-source and sustainability strategies. Rom is based both in Eindhoven and San Jose and has held diverse roles in tech companies including Tyco, SonicWALL, NetApp, and Red Hat.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rvandepoel/">
+  <a href="https://www.linkedin.com/in/romdalf/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a> 
   <a href="https://twitter.com/romdalf">
