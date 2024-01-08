@@ -1,9 +1,9 @@
 
 ## Who's Rom 👋 
 
-Rom Adams (né Romuald Vandepoel) is a technologist, facilitator, advocate, and open-source contributor responsible for modernizing and transforming customer and partner organizations at Red Hat, Inc. He embraces his role as a trusted advisor within architecture boards and CTO offices providing guidance on culture, process, and technology adoption strategies. As a transformational leader, he supports transitions from IT legacy siloed monoliths to ecosystems of Business-Unit-as-a-Service to accelerate the organization's innovation and growth.   
+Rom Adams (né Romuald Vandepoel) is an open-source strategy and C-Suite advisor with over 20 years of experience in the IT industry. He is a cloud-native expert who helps customer and partner organizations modernize and transform their data center strategies with enterprise open-source solutions. He is also a facilitator, advocate, and contributor to open-source projects, advising companies and lawmakers on their open-source and sustainability strategies.
 
-Rom participated as moderator and speaker for both in-person and virtual events for Red Hat, FOSDEM, DevOps.com, DevNetwork, Tech Field Day, HashiCorp, and the CNCF. He also funded, maintains and contributes to open-source projects and advises companies on their open-source and sustainability strategies. Rom is based both in Eindhoven and San Jose and has held diverse roles in tech companies including Tyco, SonicWALL, NetApp, and Red Hat.
+Previously, he was a Principal Architect at Ondat, a cloud-native storage company acquired by Akamai, where he designed products and implemented hybrid cloud solutions for enterprise customers. He also held various roles at Tyco, NetApp, and Red Hat, gaining certifications and becoming a subject matter expert in storage and hybrid cloud infrastructure. He has participated as a moderator and speaker for several events and publications, sharing his insights and best practices on culture, process, and technology adoption. Rom is passionate about driving transformation and innovation with open-source and cloud-native technologies.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/romdalf/">
