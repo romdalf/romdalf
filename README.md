@@ -26,11 +26,12 @@ Previously, he was a Principal Architect at Ondat, a cloud-native storage compan
 ### Contributions
 |Title|Published on|Date|
 |-----|----|----|
-|Digital Wallonia, a proposal for a digital plan (in French)|[Belgian Walloon Regional Government](https://content.digitalwallonia.be/post/20180322085717/Plan-du-Num%C3%A9rique_Rapport-du-Conseil-du-Num%C3%A9rique_VF.pdf)|09/2015|
 
-### Articles
+
+### Contributor and author
 |Title|Published on|Date|
 |-----|------------|----|
+|Digital Wallonia, a proposal for a digital plan (in French)|[Belgian Walloon Regional Government](https://content.digitalwallonia.be/post/20180322085717/Plan-du-Num%C3%A9rique_Rapport-du-Conseil-du-Num%C3%A9rique_VF.pdf)|09/2015|
 |The Intrepid Squirrel is Out!|[Ondat.io](https://www.ondat.io/blog/the-intrepid-squirrel-is-out)|12/2021|
 |3 key takeaways from KubeCon NA 2021|[Ondat.io](https://www.ondat.io/blog/top-3-key-takeaway-from-kubecon-na-2021)|11/2021|
 |Stateful Application in Kubernetes: it pays to plan ahead|[TheNewStack.io](https://thenewstack.io/why-plan-stateful-application-storage/)|10/2021|
@@ -38,6 +39,8 @@ Previously, he was a Principal Architect at Ondat, a cloud-native storage compan
 |The biggest gap in Kubernetes storage architecture|[TheNewStack.io](https://thenewstack.io/whats-the-biggest-gap-in-kubernetes-storage-architecture/)|07/2021|
 |How to solve kubernetes persistent storage challenges|[TheNewStack.io](https://thenewstack.io/how-to-solve-kubernetes-persistent-storage-challenges/)|06/2021|
 |Deploying cloud native persistent storage in the age of containers|[TheNewStack.io](https://thenewstack.io/deploying-cloud-native-persistent-storage-in-the-age-of-containers/)|05/2021|
+|Can Kubernetes help solve automation challneges?|[opensource.com](https://opensource.com/article/22/10/kubernetes-solve-automation-challenges)|10/2022
+
 
 ### Live Presentations
 |Title|Venue|Date|Location|
