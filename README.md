@@ -22,7 +22,7 @@ Previously, he served as a Principal Architect at Ondat, a cloud-native storage 
   </a>
 </p>
 
-## Portfolio of contributions, articles and webinars
+## Portfolio of books, articles, and webinars
 
 ### Book contributor and author
 |Title|Published on|Date|
