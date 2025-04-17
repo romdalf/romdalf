@@ -1,9 +1,9 @@
 
 ## Who's Rom 👋 
 
-Rom Adams (né Romuald Vandepoel) is an open-source strategy and C-Suite advisor with over 20 years of experience in the IT industry. He is a cloud-native expert who helps customer and partner organizations modernize and transform their data center strategies with enterprise open-source solutions. He is also a facilitator, advocate, and contributor to open-source projects, advising companies and lawmakers on their open-source and sustainability strategies.
+Rom Adams (né Romuald Vandepoel) is an open-source strategy and C-Suite advisor with over 20 years of experience in the IT industry. He is a cloud-native expert who helps customer and partner organizations modernize and transform their data center strategies with enterprise open-source solutions. He is also a facilitator, advocate, and contributor to open-source projects, advising companies and lawmakers on their open-source and sustainability strategy.
 
-Previously, he was a Principal Architect at Ondat, a cloud-native storage company acquired by Akamai, where he designed products and implemented hybrid cloud solutions for enterprise customers. He also held various roles at Tyco, NetApp, and Red Hat, gaining certifications and becoming a subject matter expert in storage and hybrid cloud infrastructure. He has participated as a moderator and speaker for several events and publications, sharing his insights and best practices on culture, process, and technology adoption. Rom is passionate about driving transformation and innovation with open-source and cloud-native technologies.
+Previously, he served as a Principal Architect at Ondat, a cloud-native storage company acquired by Akamai, where he designed and implemented hybrid cloud solutions for enterprise customers. He also held various roles at Tyco, NetApp, and Red Hat, gaining certifications and becoming a subject matter expert in storage and hybrid cloud infrastructure. He has participated as a moderator and speaker for several events and publications, sharing his insights and best practices on culture, process, and technology adoption. Rom is passionate about driving transformation and innovation with open-source and cloud-native technologies.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/romdalf/">
@@ -24,7 +24,15 @@ Previously, he was a Principal Architect at Ondat, a cloud-native storage compan
 
 ## Portfolio of contributions, articles and webinars
 
-### Contributor and author
+### Book contributor and author
+|Title|Published on|Date|
+|-----|------------|----|
+|Kubernetes Secrets Handbook |[packt](https://www.packtpub.com/en-us/product/kubernetes-secrets-handbook-9781805127154) | 01/2024
+|Kubernetes – An Enterprise Guide | [packt](https://www.packtpub.com/en-us/product/kubernetes-an-enterprise-guide-9781835081754) | 08/2024
+|The Kubernetes Bible | [packt](https://www.packtpub.com/en-us/product/the-kubernetes-bible-9781835468241) | 11/2024
+
+
+### Articles contributor and author
 |Title|Published on|Date|
 |-----|------------|----|
 |Digital Wallonia, a proposal for a digital plan (in French)|[Belgian Walloon Regional Government](https://content.digitalwallonia.be/post/20180322085717/Plan-du-Num%C3%A9rique_Rapport-du-Conseil-du-Num%C3%A9rique_VF.pdf)|09/2015|
@@ -35,7 +43,7 @@ Previously, he was a Principal Architect at Ondat, a cloud-native storage compan
 |The biggest gap in Kubernetes storage architecture|[TheNewStack.io](https://thenewstack.io/whats-the-biggest-gap-in-kubernetes-storage-architecture/)|07/2021|
 |How to solve kubernetes persistent storage challenges|[TheNewStack.io](https://thenewstack.io/how-to-solve-kubernetes-persistent-storage-challenges/)|06/2021|
 |Deploying cloud native persistent storage in the age of containers|[TheNewStack.io](https://thenewstack.io/deploying-cloud-native-persistent-storage-in-the-age-of-containers/)|05/2021|
-|Can Kubernetes help solve automation challneges?|[opensource.com](https://opensource.com/article/22/10/kubernetes-solve-automation-challenges)|10/2022
+|Can Kubernetes help solve automation challenges?|[opensource.com](https://opensource.com/article/22/10/kubernetes-solve-automation-challenges)|10/2022
 
 
 ### Live Presentations
