@@ -17,10 +17,12 @@ Previously, he served as a Principal Architect at Ondat, a cloud-native storage 
 ## Contribution Stats 🔭
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=romdalf&theme=vision-friendly-dark" /> 
+  <a href="https://github.com/romdalf/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=romdalf" /> 
   </a>
 </p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=romdalf)](https://github.com/romdalf/github-readme-stats)
 
 ## Portfolio of books, articles, and webinars
 
